@@ -20,14 +20,3 @@
 - [indextr](https://github.com/limina1/indextr-client/blob/main/README.md)
 - [Repository to upload existing notes](https://github.com/limina1/upload_files/tree/main)
 
-## Big ramblin' list of potential use cases
-- Recipes
-- Flashcards (vocabulary, problem sets, etc.)
-- Jupyter Notebook functionality
-- tutorials
-- Prose
-- Research
-- Tool documentation and organization 
-- client on-boarding knowledge base
-- highly nested textbooks.
-
